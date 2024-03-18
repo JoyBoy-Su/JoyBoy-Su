@@ -8,4 +8,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 I am a 2020 undergraduate of Fudan University, and I will study for my PhD in Shanghai Artificial Intelligence Laboratory (or Pujiang Laboratory) next year.
-I am also a member of GAIR (Generative Artificial Intelligence Lab), doing some multimodal research under the guidance of Dr. Pengfei Liu.
+I am also a member of GAIR (Generative Artificial Intelligence Lab), doing some multimodal research under the guidance of Prof. Pengfei Liu.
